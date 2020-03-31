@@ -16,6 +16,10 @@ The grid can be changed according to the needs and size of ROW and COL can be ch
 
 ![output window](Image%2001-04-20%20at%2012.19%20AM.jpeg)
 
+**Visualization of the code and the grid**
+
+![visualization diagram](IMG_20200401_002441__01.jpeg)
+
 **Acknowledgement**
 
 Rachit Belwariar(Geeks for Geeks)
