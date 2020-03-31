@@ -14,7 +14,7 @@ The grid can be changed according to the needs and size of ROW and COL can be ch
 
 **Output Window**
 
-![output window]
+![output window](Image%2001-04-20%20at%2012.19%20AM.jpeg)
 
 **Acknowledgement**
 
