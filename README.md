@@ -12,6 +12,10 @@ An IDE or any kind of text-editor will do!
 
 The grid can be changed according to the needs and size of ROW and COL can be changed according to the size of grid required. The path Tracing can be modified with the necessary character.
 
+**Output Window**
+
+![output window](Image 01-04-20 at 12.19 AM.jpeg)
+
 **Acknowledgement**
 
 Rachit Belwariar(Geeks for Geeks)
